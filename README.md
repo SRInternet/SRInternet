@@ -1,5 +1,12 @@
-## Hi there 👋
+## 你好这里 👋
 
+### **用代码表达人格魅力，用代码书写山河壮丽** 
+
+ - 😎 我是 SR思锐 开发者，思锐工作室的室长
+ - 🤯 最近有点头脑风暴
+ - 👍 VB.NET 和 Python 占据了我的心灵
+ - 🔭 最近在学习 Python 和 Java
+ - 💬 要是有什么事想和我聊聊，主页的链接都可以联系到我
 <!--
 **SRInternet/SRInternet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
