@@ -46,7 +46,7 @@ Source repository: https://github.com/shu-shu-1/shu-shu-1
 <img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=SRInternet&theme=github-compact&hide_border=true&area=true&custom_title=Contribution%20Graph" />
 <br/>
 <!-- https://github.com/star-history/star-history -->
-<img src="https://api.star-history.com/svg?repos=SRInternet-Studio/Wallpaper-generator,SRInternet-Studio/Jianer-QQ-bot,SRInternet/Home_Page,SRInternet-Studio/Class-Hot-Search&type=Date" />
+<img src="https://api.star-history.com/svg?repos=SRInternet/Home_Page&type=Date" />
   <br/>
 
 <!-- https://github.com/anuraghazra/github-readme-stats -->
