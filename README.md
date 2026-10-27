@@ -83,18 +83,18 @@ Contact directly via QQ? Join the fan group and ask the group leader to help.
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SRInternet&theme=transparent&hide_border=true&layout=donut-vertical&langs_count=6" />
 
-## My Development Environment 开发环境
+## 开发环境 My Development Environment
 
-#### Operating Systems
+#### Top Operating Systems
 ![Static Badge](https://img.shields.io/badge/Windows%2011-%20?style=flat-square&logo=microsoft&logoColor=white&color=0078D4)
 ![Static Badge](https://img.shields.io/badge/Windows%2010-%20?style=flat-square&logo=microsoft&logoColor=white&color=71AAD6)
 ![Static Badge](https://img.shields.io/badge/Ubuntu%2020.04-%20?style=flat-square&logo=ubuntu&logoColor=white&color=orange)
 
-#### Dev Tools
+#### Top Dev Tools
 ![Static Badge](https://img.shields.io/badge/Visual%20Studio%20Code-%20?style=flat-square&logo=vscodium&logoColor=white&color=blue)
 ![Static Badge](https://img.shields.io/badge/Qoder%20IDE-%20?style=flat-square&logoColor=white&color=green)
 
-#### Programing Languages and Farmeworks
+#### Most Used Programing Languages and Farmeworks
 <!-- https://github.com/LelouchFR/skill-icons -->
 <img align="center" src="https://go-skill-icons.vercel.app/api/icons?i=py,vb,html,md">
 <!-- </p> -->
